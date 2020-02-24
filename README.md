@@ -51,7 +51,7 @@ def sq_err(y_real, y_predicted):
 
     
     return
-    squared error between regression and true line (ss_tot)
+    squared error between regression and true line (ss_res)
     """
     pass
 
